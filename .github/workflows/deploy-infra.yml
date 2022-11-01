@@ -8,7 +8,7 @@ jobs:
     permissions:
       packages: write
       contents: read
-      id-tocken: write
+      id-token: write
     # Steps is a List and each element is defined with a dash
     steps:
       #EXPORT THE CREDENTIALS
